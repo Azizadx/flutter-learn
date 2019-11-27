@@ -6,6 +6,6 @@ Is simple Random Words Generate in flutter Where you saved your favorite words
 
 
 
-![firstScreen](C:\dev\newMobile\projects\login\screenshot\firstScreen.png)
+![firstScreen](https://github.com/Azizadx/flutter-learn/blob/develop/screenshot/firstScreen.png)
 
-![SecandScreen](C:\dev\newMobile\projects\login\screenshot\2nd.png)
+![SecandScreen](https://github.com/Azizadx/flutter-learn/blob/develop/screenshot/2nd.png)
